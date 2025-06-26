@@ -1,4 +1,4 @@
-![Screenshot 2025-06-26 083838](https://github.com/user-attachments/assets/166bfcdb-23c4-469b-8c6f-873ae1c9bae4)![Screenshot 2025-06-26 083838](https://github.com/user-attachments/assets/166bfcdb-23c4-469b-8c6f-873ae1c9bae4)# 📝 Python Resume Builder (Tkinter + python-docx)
+
 
 A simple GUI-based Resume Builder application built using **Python's Tkinter** for the frontend and **python-docx** for automatic `.docx` resume file generation.
 
@@ -22,7 +22,7 @@ A simple GUI-based Resume Builder application built using **Python's Tkinter** f
 ## 📌 Screenshots
 
 ![Screenshot 2025-06-26 083838](https://github.com/user-attachments/assets/c0b6b6dd-3b8a-42a6-b3f9-be245db29dca)
-![Screenshot 2025-06-26 083838](https://github.com/user-attachments/assets/c0b6b6dd-3b8a-42a6-b3f9-be245db29dca)
+
 
 
 ## 🛠️ Technologies Used
